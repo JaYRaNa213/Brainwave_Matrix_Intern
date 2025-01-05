@@ -25,8 +25,8 @@ The dataset contains labeled news articles categorized as `FAKE` or `REAL`. Ensu
 
 ```
 data/
-├── train.csv
-├── test.csv
+├── True_News.csv
+├── Fake_News.csv
 ```
 
 ## Usage
@@ -41,15 +41,6 @@ data/
    - Train various machine learning models.
    - Evaluate and compare model performances.
 
-## Results
-
-| Model              | Accuracy | Precision | Recall | F1-Score |
-|--------------------|----------|-----------|--------|----------|
-| Logistic Regression | XX.XX%   | XX.XX%    | XX.XX% | XX.XX%   |
-| Naive Bayes         | XX.XX%   | XX.XX%    | XX.XX% | XX.XX%   |
-| ...                | ...      | ...       | ...    | ...      |
-
-*(Replace placeholders with actual results after running the notebook.)*
 
 ## Project Structure
 
@@ -77,7 +68,7 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ## Acknowledgments
 
-- Dataset sourced from [Kaggle/Dataset Provider Name](https://kaggle.com/dataset-link).
+- Dataset sourced from [Kaggle/Dataset Provider Name](kaggle.com).
 - Inspiration and guidance from online tutorials and courses.
 
 ---
