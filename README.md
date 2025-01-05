@@ -68,7 +68,7 @@ This project is licensed under the MIT License. See `LICENSE` for more informati
 
 ## Acknowledgments
 
-- Dataset sourced from [Kaggle/Dataset Provider Name](kaggle.com).
+- Dataset sourced from [Kaggle](kaggle.com).
 - Inspiration and guidance from online tutorials and courses.
 
 ---
